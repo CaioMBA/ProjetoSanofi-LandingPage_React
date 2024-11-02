@@ -1,3 +1,10 @@
+**GRUPO DO CHALLENGE**
+- Caio Manoel Bezerra de Araujo | RM: 94778
+- Daniel Kramer de Holleben Santos | RM: 94277
+- Rafaela Hitomi Osugi | RM: 95062
+- Luana Domingos Dias | RM: 93191
+- Lucas Ferraz Martins | RM: 94821
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
